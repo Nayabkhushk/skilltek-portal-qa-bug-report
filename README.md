@@ -1,7 +1,7 @@
 # SkillTek Web Portal — Ad-Hoc QA Testing & Defect Audit
 
 # Project Overview
-This repository contains the software bug report and defect documentation for ad-hoc and exploratory functional testing performed on the SkillTek Institute of Media Solutions web platform (Admin Portal, Teacher Portal, and Public Website)[cite: 1, 12].
+This repository contains the software bug report and defect documentation for ad-hoc and exploratory functional testing performed on the SkillTek Institute of Media Solutions web platform (Admin Portal, Teacher Portal, and Public Website).
 
 A total of 8 key functional, data validation, and UI defects were discovered, documented with reproduction steps, and mapped to screenshot evidence.
 
